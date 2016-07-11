@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/audio_menu_item"
+        android:title="@string/audioOn"
+        android:icon="@drawable/ic_volume_full_50"/>
+    <item
+        android:id="@+id/visual_menu_item"
+        android:title="@string/visualOn"
+        android:icon="@drawable/ic_star_50"/>
+    <item
+        android:id="@+id/tutorial_menu_item"
+        android:title="@string/tutorial"
+        android:icon="@drawable/ic_select_link_50"/>
+    <item
+        android:id="@+id/credits_menu_item"
+        android:title="@string/credits"
+        android:icon="@drawable/ic_help_50"/>
+</menu>
